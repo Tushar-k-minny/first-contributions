@@ -331,6 +331,7 @@
 - [Jeff Nkatiah](https://github.com/jeffnk05)
 - [Mircea Arva](https://github.com/cocolinofan)
 - [Myo Myat Han](https://github.com/MyoMyatHan)
+- [Tushar Kumar](https://github.com/Tushar-k-minny)
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Mayank Tripathi](https://github.com/MAYANK-TRIPATH)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
@@ -1517,12 +1518,10 @@
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
-- [Krishanthan Krishnamoorthy](https://github.com/krish23)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
-- [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
 
 <!-- prettier-ignore-end -->
